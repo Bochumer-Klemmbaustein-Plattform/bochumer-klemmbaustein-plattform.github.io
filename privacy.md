@@ -1,7 +1,6 @@
 ---
 title: Daten­schutz­erklärung
-permalink: /privacy/
-layout: page
+layout: default
 ---
 
 # 1. Datenschutz auf einen Blick
